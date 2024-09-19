@@ -1,6 +1,6 @@
 # N皇后II
 
-[52. N皇后II](https://leetcode.cn/problems/n-queens-ii/description/) 🔴
+[52. N皇后II](https://leetcode.cn/problems/n-queens-ii/description/) 
 
 ## 题目大意
 N皇后问题变种，求出能摆放的方法总数
